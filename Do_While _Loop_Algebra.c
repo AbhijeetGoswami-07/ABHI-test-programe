@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h> // Required for the exit() function
+#include <stdlib.h> 
 
 int main() {
     int a, b, ch, c;
@@ -63,5 +63,6 @@ int main() {
         }
     } while (ch != 6);
 
-    return 0; // It's good practice to return 0 from main()
+    return 0; 
 }
+
